@@ -502,7 +502,7 @@ ul { list-style: none; }
   height: 100%;
   object-fit: cover;
   /* object-position: center; */
-   object-position: right center;
+   object-position: left center;
   border-radius: var(--radius-lg);
   position: relative;
   z-index: 1;

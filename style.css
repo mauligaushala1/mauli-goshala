@@ -1056,8 +1056,3 @@ ul { list-style: none; }
   .hero-title { font-size: clamp(2.5rem, 12vw, 4rem); }
   .modal-actions .btn { font-size: 0.8rem; padding: 0.7rem 1rem; }
 }
-.product-icon-wrap img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}

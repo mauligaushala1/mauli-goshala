@@ -31,7 +31,8 @@ const PRODUCTS = [
   {
     id: 4, featured: true,
     name: "Mauli Pure Ghee",
-    icon: "✨",
+    // icon: "✨",
+    icon: "<image src="assets/900c1f42-1d64-4a24-a261-bbed81af4d3f.jpg">",
     tag: "Bestseller",
     price: "₹750 / 250 gms",
     desc: "Prepared in vedic manner using the bilona method. Highly sattvic, medicinal, and deeply nourishing.",

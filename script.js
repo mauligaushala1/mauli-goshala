@@ -17,7 +17,7 @@
 // Example: 91 (India) + 9870832979 = '919870832979'
 // ──────────────────────────────────────────────
 const CONTACT = {
-  main: '919870832979',       // Pradip Bhoir — main WhatsApp & Call number
+  main: '97688 59999',       // Pradip Bhoir — main WhatsApp & Call number
   secondary: '918097524181'   // Secondary Call number (About & Contact sections)
 };
 const WA_NUMBER = CONTACT.main; // used by waLink() below — do not edit

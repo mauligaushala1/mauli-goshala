@@ -1294,7 +1294,7 @@ ul { list-style: none; }
 ══════════════════════════════════════════════ */
 .floating-btns {
   position: fixed;
-  bottom: 18rem;
+  bottom: 13rem;
   right: 1.75rem;
   display: flex;
   flex-direction: column;
